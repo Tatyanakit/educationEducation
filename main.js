@@ -15,3 +15,4 @@ let appData = {
 
 let oneDay = alert("Ваш бюджет на 1 день: " + ((money - much1) / 30));
 
+var taniNew;
